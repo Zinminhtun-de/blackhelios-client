@@ -4,7 +4,7 @@ import { Route, Switch, Redirect } from "react-router-dom";
 import { connect } from "react-redux";
 import { Helmet } from "react-helmet";
 import Home from "../containers/HomeContainer/Loadable";
-import { RenderRoutes, ROUTES } from "./routes-config";
+import { RenderRoutes, ROUTES } from "./routes/routes-config";
 import { Link } from "react-router-dom";
 
 function App({}) {
