@@ -9,6 +9,6 @@
  * export const YOUR_ACTION_CONSTANT = 'yourproject/YourContainer/YOUR_ACTION_CONSTANT';
  */
 
-export const LOAD_REPOS = "App/LOAD_REPOS";
-export const LOAD_REPOS_SUCCESS = "App/LOAD_REPOS_SUCCESS";
-export const LOAD_REPOS_ERROR = "App/LOAD_REPOS_ERROR";
+export const AUTH_LOADING = "App/AUTH_LOADING";
+export const AUTH_SUCCESS = "App/AUTH_SUCCESS";
+export const AUTH_ERROR = "App/AUTH_ERROR";

@@ -5,7 +5,6 @@ import DashBoard from "../../containers/private/DashContainer";
 import { DashBoardProfile } from "../../containers/private/DashContainer/components";
 const ROUTES = [
   { path: "/", key: "root", exact: true, component: Home },
-
   {
     path: "/dash",
     key: "DASHBOARD",

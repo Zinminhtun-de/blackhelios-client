@@ -1,5 +1,4 @@
 import axios from "axios";
-import authService from "./authService";
 import { endpoint, prodEndpoint } from "../config";
 
 const URL =
