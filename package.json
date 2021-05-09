@@ -24,7 +24,7 @@
     "immer": "^8.0.1",
     "install": "^0.13.0",
     "invariant": "^2.2.4",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "match-sorter": "^6.1.0",
     "moment": "^2.29.1",
     "namor": "^2.0.2",
